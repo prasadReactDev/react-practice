@@ -1,5 +1,5 @@
 # react-practice
-My journey to become good in React Development. I've beginner's knowledge in React, now trying to step it up to next level.
+Hi Guys I'm Prasad, from India. This is journey to become good in React Development. I've beginner's knowledge in React, now trying to step it up to next level.
 To level up my skills, I decided to try following 100 projects. I don't know how many weeks/months/years it will take me to complete them.
 
 Wish me luck!!!
@@ -116,3 +116,4 @@ Wish me luck!!!
 99. Project Management App
 100. Customer Relationship Management App
 
+**Start Date** 25-03-2023 9:50PM
