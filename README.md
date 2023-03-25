@@ -26,7 +26,9 @@ Wish me luck!!!
 19. Random User Generator
 20. Calculator App
 
-// Intermediate Projects:
+// Intermediate Projects
+
+
 21. Expense Tracker
 22. Recipe Box
 23. Drum Machine
@@ -48,7 +50,8 @@ Wish me luck!!!
 39. File Uploader
 40. QR Code Generator
 
-// Advanced Projects:
+//Advanced Projects
+
 41. Blog
 42. E-commerce Store
 43. Image Editor
@@ -70,7 +73,8 @@ Wish me luck!!!
 59. Booking App
 60. Survey App
 
-// Expert Projects:
+// Expert Projects
+
 61. Banking App
 62. Flight Booking App
 63. Healthcare App
