@@ -2,6 +2,8 @@
 Hi Guys I'm Prasad, from India. This is journey to become good in React Development. I've beginner's knowledge in React, now trying to step it up to next level.
 To level up my skills, I decided to try following 100 projects. I don't know how many weeks/months/years it will take me to complete them.
 
+I'm using NextJS + Typescript
+
 Wish me luck!!!
 
 // Beginner Projects:
