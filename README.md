@@ -7,7 +7,7 @@ I'm using NextJS + Typescript
 Wish me luck!!!
 
 // Beginner Projects:
-1. Counter
+1. [Counter](https://github.com/prasadReactDev/counter-app)
 2. Todo List
 3. Calculator
 4. Stopwatch
